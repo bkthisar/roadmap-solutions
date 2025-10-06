@@ -9,3 +9,5 @@
 ## 📁 Table of Content
 
 ---
+
+🙏 **Thank you, roadmapsh**, for being an excellent guide on the developer journey. The clear, step-by-step roadmaps have been incredibly helpful in reducing confusion and showing me the big picture of what to learn. It's an invaluable resource for planning my learning path and building confidence.
